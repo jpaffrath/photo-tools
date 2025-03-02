@@ -19,6 +19,7 @@ for filename in "$@"; do
         -lensmodel="Series E 50mm 1.8" \
         -lenstype="Series E 50mm 1.8" \
         -lensinfo="50 50 1.8 1.8" \
+        -lensmake="Nikon" \
         -make="Nikon" \
         -model="FG" \
         -focallength="50" \
