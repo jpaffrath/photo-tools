@@ -25,8 +25,8 @@ for filename in "$@"; do
         -focallength="50" \
         -description="Roll: Agfa Color 400 Dev: On Film Lab" \
         -iso="400" \
-	-GPSLatitude=50.5876 \
-	-GPSLongitude=6.67065 \
+	-GPSLatitude=21.298221069977238 \
+	-GPSLongitude=-158.1083713603649 \
 	-GPSLatitudeRef=N \
 	-GPSLongitudeRef=E \
         "$filename"
