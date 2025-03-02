@@ -15,3 +15,12 @@ This script deletes all exif information and re-writes only given exif tags.
 
 ### export-scale-border.py
 Scales down given images by 50% and adds a white border for when I am exporting scanned film for my website or social media.
+
+## Installation
+
+For the shell scripts I am using *ExifTool by Phil Harvey*, for my python scripts a virtual environment:
+```
+python3 -m venv .
+source bin/activate
+python3 -m pip install -r requirements.txt
+```
