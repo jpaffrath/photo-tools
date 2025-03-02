@@ -1,2 +1,2 @@
 # photo-tools
-Collection of scrips supporting my photography hobby
+Collection of scripts supporting my photography hobby
