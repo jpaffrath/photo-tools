@@ -14,6 +14,9 @@ for filename in "$@"; do
 
     exiftool -overwrite_original \
         -ALL= \
+        "$filename"
+
+    exiftool -overwrite_original \
         -DateTimeOriginal="2025-02-23 16:00:00" \
         -DateTimeDigitized="2025-02-23 16:00:00" \
         -lensmodel="Series E 50mm 1.8" \
