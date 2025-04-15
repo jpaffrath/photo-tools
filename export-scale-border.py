@@ -17,4 +17,4 @@ paths = glob.glob(os.path.join(folder, wildcard))
 
 for path in paths:
     print('Processing ' + path)
-    scale(path, path + 'out.jpeg')
+    scale(path, path + '.out.jpeg')
